@@ -1,0 +1,18 @@
+Objetos Git
+https://git-scm.com/book/pt-br/v2/Funcionamento-Interno-do-Git-Objetos-do-Git
+----------------------------------------------------------------------------------------------------------------------------
+Push Github:
+
+1 - git init
+
+2 - git branch -m main
+
+3 - git add .
+
+4 - git commit -m "mensagem da commit"
+
+5 - git remote add origin endereçoDoRepositorio
+
+6 - git push -u origin main
+
+-----------------------------------------------------------------------------------------------------------------------------
